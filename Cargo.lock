@@ -48,6 +48,7 @@ name = "cdc_rust_scylla"
 version = "0.1.0"
 dependencies = [
  "chrono",
+ "futures",
  "hex",
  "scylla",
  "tokio",
